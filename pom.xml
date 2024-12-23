@@ -11,6 +11,7 @@
 	<groupId>com.chatapp</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>backend</name>
 	<description>This project implements the backend logic for a real-time chat application.</description>
 	<url/>
